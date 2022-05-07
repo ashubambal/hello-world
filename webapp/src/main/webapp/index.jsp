@@ -132,11 +132,11 @@ input[type=submit]:hover {
   }
 }
 </style>
-</head>
+</ead>
 <body>
 
 <h1>Welcome to Softconsist</h1>
-<p>Resize the browser window to see the responsive effect. When the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other.</p>
+<p>"Softconsist is software developement compay which develop software product for you businesses"</p>
 
 <div class="container">
   <form action="/action_page.php">
